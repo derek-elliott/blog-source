@@ -7,6 +7,7 @@ paginate = 20
 canonifyurls = true
 
 pygmetstyle = "b2"
+pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 [params]
@@ -22,6 +23,10 @@ pygmentscodefencesguesssyntax = true
   name = "Github"
   weight = 1
   url = "https://github.com/derek-elliott/"
+[[params.social]]
+  name = "Linkedin"
+  weight = 2
+  url = "https://www.linkedin.com/in/derek-elliott-70941887/"
 
 [[menu.main]]
   name = "Blog"
