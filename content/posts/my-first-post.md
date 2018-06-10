@@ -1,7 +1,7 @@
 ---
 title: "Building a Url Shortner: Part 1"
 date: 2018-06-09T11:48:38-04:00
-draft: true
+draft: false
 ---
 There are a lot of tutorials for projects in go, but a majority of them devolve into copy and pasting code to get something that works.  I will try not to do that in this series.  Another thing a lot of these things leave out is how much forethought and design go into a project.  So, in the first part of this series, I'll go through collecting requirements and do some initial design.  Because this is just for me and this blog, I get to set my own requirements.  
 
